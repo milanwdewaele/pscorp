@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Language Redirect</title>
-    <script>
+    <!-- <script>
         document.addEventListener('DOMContentLoaded', () => {
             const language = navigator.language || navigator.userLanguage;
             if (language.startsWith('nl')) {
@@ -13,7 +13,7 @@
                 window.location.href = '/en';
             }
         });
-    </script>
+    </script> -->
 </head>
 <body>
     <p>Redirecting...</p>
